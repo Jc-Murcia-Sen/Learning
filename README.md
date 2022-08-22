@@ -8,6 +8,6 @@ Links from where I'm learning:
 
 ## Tests from link #1
 
-Whatsch tutorial on Youtube.
+Watch tutorial on Youtube.
 
 
